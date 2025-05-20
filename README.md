@@ -1,8 +1,9 @@
 ![Challenge (4)](https://github.com/user-attachments/assets/f5af95f7-551a-476e-be93-2dbcf2f56680)
 
-# Alura Store
+# Análise de Dados - Alura Store
 <h2>📚 Sobre</h2>
-Este projeto faz parte da trilha **Especialização em Data Science - G8 ONE** e propõe um desafio analítico com foco em tomada de decisão baseada em dados. Utilizando informações de vendas, desempenho e avaliações das quatro lojas fictícias da Alura Store, a missão é identificar qual loja possui a menor eficiência e, com base nos dados, recomendar ao Senhor João qual unidade ele deve vender para iniciar um novo negócio.
+
+Este projeto faz parte da trilha **Especializção em Data SCience - G8 ONE** e propõe um desafio analítico com foco em tomada de decisão baseada em dados. Utilizando informações de vendas, desempenho e avaliações das quatro lojas fictícias da Alura Store, a missão é identificar qual loja possui a menor eficiência e, com base nos dados, recomendar ao Senhor João qual unidade ele deve vender para iniciar um novo negócio.
 
 A análise foi desenvolvida inteiramente em **Python**, com o auxílio de bibliotecas para visualização de dados, manipulação de dados e construção de mapas interativos, e foi implementada no ambiente colaborativo do Google Colab.
 
