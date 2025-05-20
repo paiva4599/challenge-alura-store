@@ -1,6 +1,6 @@
 ![Challenge (4)](https://github.com/user-attachments/assets/f5af95f7-551a-476e-be93-2dbcf2f56680)
 
-# Amigo Secreto
+# Alura Store
 <h2>📚 Sobre</h2>
 Este projeto faz parte da trilha **Especialização em Data Science - G8 ONE** e propõe um desafio analítico com foco em tomada de decisão baseada em dados. Utilizando informações de vendas, desempenho e avaliações das quatro lojas fictícias da Alura Store, a missão é identificar qual loja possui a menor eficiência e, com base nos dados, recomendar ao Senhor João qual unidade ele deve vender para iniciar um novo negócio.
 
